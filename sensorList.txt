@@ -1,0 +1,20 @@
+gaz & smoke
+MQ2 - 5V, Analog  (are si digital output)
+
+Tempetatura & umiditate
+DHT11 /DHT22   3.3V & 5V , Digital
+SHT21  3.3v , I2C
+
+Miscare
+PIR HC-SR505 5V, Analog
+
+
+Lumina
+TEMT6000 3.3V & 5V , Analog
+VEML6070 3.3V & 5V , I2C
+
+Buzzer digital
+
+
+presiune atmosferică
+BMP280  3.3v , I2C
